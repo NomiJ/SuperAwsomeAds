@@ -20,13 +20,16 @@
                                 <rect key="frame" x="0.0" y="299" width="320" height="250"/>
                                 <color key="backgroundColor" red="0.68599269780000005" green="1" blue="0.27930105849999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="string" keyPath="appID" value="88"/>
-                                    <userDefinedRuntimeAttribute type="string" keyPath="placementID" value="442547"/>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="appID" value="14"/>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="placementID" value="314228"/>
                                 </userDefinedRuntimeAttributes>
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
+                    <connections>
+                        <outlet property="videoAds" destination="8WA-2F-QUv" id="B5a-W6-dTX"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

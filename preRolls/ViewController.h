@@ -7,8 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <SAVideoAdView.h>
+@interface ViewController : UIViewController<SAVideoAdViewDelegate>
 
-@interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet SAVideoAdView *videoAds;
 
 
 @end
