@@ -19,12 +19,14 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    /*
     self.videoAdView = [[SAVideoAdView alloc] initWithFrame:CGRectMake(0, 0, 320, 250)];
     self.videoAdView.backgroundColor = [UIColor redColor];
     self.videoAdView.appID = @"88";
     self.videoAdView.placementID = @"442547";
     self.videoAdView.autoplay = YES;
     [self.view addSubview:self.videoAdView];
+     */
 }
 
 - (void)didReceiveMemoryWarning {

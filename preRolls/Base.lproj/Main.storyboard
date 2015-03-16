@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8WA-2F-QUv" customClass="SAVideoAdView">
-                                <rect key="frame" x="114" y="299" width="320" height="250"/>
+                                <rect key="frame" x="0.0" y="299" width="320" height="250"/>
                                 <color key="backgroundColor" red="0.68599269780000005" green="1" blue="0.27930105849999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="string" keyPath="appID" value="88"/>

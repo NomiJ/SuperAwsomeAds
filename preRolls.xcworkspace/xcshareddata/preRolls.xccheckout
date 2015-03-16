@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>557E78F9-EC67-4988-B9FF-0A5D47D89F91</string>
+	<key>IDESourceControlProjectName</key>
+	<string>preRolls</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E35F7640DCF8D6460464B3ACF8EC726B15A0815C</key>
+		<string>https://github.com/NomiJ/SuperAwsomeAds.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>preRolls.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E35F7640DCF8D6460464B3ACF8EC726B15A0815C</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NomiJ/SuperAwsomeAds.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E35F7640DCF8D6460464B3ACF8EC726B15A0815C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E35F7640DCF8D6460464B3ACF8EC726B15A0815C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>preRolls</string>
+		</dict>
+	</array>
+</dict>
+</plist>
