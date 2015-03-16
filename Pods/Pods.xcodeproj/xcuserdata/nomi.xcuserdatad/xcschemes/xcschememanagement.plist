@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-preRolls-GoogleAds-IMA-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-preRolls-JSONModel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-preRolls-SAMobileSDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-preRolls.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2D6F37553E846C116D9C7D49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2FB4B8629327E954D644153E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1EC197B2BEC5C1529CEAE32</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A35381674FE16964C56A1391</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

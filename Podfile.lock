@@ -1,0 +1,20 @@
+PODS:
+  - GoogleAds-IMA-iOS-SDK (3.0.beta.12)
+  - JSONModel (1.0.2)
+  - SAMobileSDK (1.1.2):
+    - GoogleAds-IMA-iOS-SDK (~> 3.0.beta.11)
+    - JSONModel (~> 1.0.2)
+
+DEPENDENCIES:
+  - SAMobileSDK (from `https://github.com/SuperAwesomeLTD/sa-mobile-sdk-ios.git`)
+
+EXTERNAL SOURCES:
+  SAMobileSDK:
+    :git: https://github.com/SuperAwesomeLTD/sa-mobile-sdk-ios.git
+
+SPEC CHECKSUMS:
+  GoogleAds-IMA-iOS-SDK: aff35500c44b7d082cdd1d0f2297190e3e888b2f
+  JSONModel: cbdef0fdff1cc70e913a860861d3072860efd3a1
+  SAMobileSDK: 965e9b0b1ed08d1108dfb31ff2f1d97c60e8c835
+
+COCOAPODS: 0.34.4

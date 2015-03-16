@@ -1,0 +1,1 @@
+../../../SAMobileSDK/SAMobileSDK/Classes/SAAppConfig.h
